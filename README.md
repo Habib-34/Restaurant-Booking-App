@@ -1,16 +1,8 @@
-# restautrant_booking_app
+Splash Screen: 
+![image](https://github.com/user-attachments/assets/8db9bb45-8694-4d89-a29f-277d2b1a04cd)
 
-A new Flutter project.
+Restaurant List Screen:
+![image](https://github.com/user-attachments/assets/6c67fd2b-0578-4016-bb4a-8f01cd9df271)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Restaurant Detail Screen:
+![image](https://github.com/user-attachments/assets/589767be-e8ab-440e-951a-41852cf8db48)
